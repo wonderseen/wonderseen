@@ -20,7 +20,7 @@ I am passionate about specializing in algorithms and fit them into practical app
 - 🤔 2018-09 - 2019-09: participated in Optimization Machine Learning Group and studied fuzzy clustering theory.
 - 👯 2016-11 - 2018-09: join the Drone Team in charge of traditional compute vision, won the second place in IARC.
 
-## Publications [[google scholar]](https://scholar.google.com/citations?user=13UiAdUAAAAJ&hl=zh-CN)
+## Representative Publications [[google scholar]](https://scholar.google.com/citations?user=13UiAdUAAAAJ&hl=zh-CN)
 
 - Efficient Object-Level Visual Context Modeling for Multimodal Machine Translation: Masking Irrelevant Objects Helps Grounding. ACL. 2022.
 - AdaST: Dynamically Adapting Encoder States in the Decoder for End-to-End Speech-to-Text Translation. ACL Findings. 2021.
