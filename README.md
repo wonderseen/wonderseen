@@ -7,13 +7,14 @@ My research interests include:
 - 🔭 clustering analysis (fuzzy clustering theory and linguistic clustering)
 - 🌱 machine translation (text-only and multimodal machine translation)
 - 👯 multimodal learning (pretraining technology and reasoning)
-- 🌱 large language modeling (infra codebase, multilingual pretrain and efficient sft)
+- 🌱 large language modeling (infra, multilingual pretrain and efficient universal sft)
 
 I am passionate about specializing in algorithms and fit them into practical applications.
 
 ## Experiences
 
-- 📫 2022-04 -     now: currently working on ByteDance AI Lab in the fields of machine translation and multimodal/multilingual intelligence.
+- 📫 2023-09 -        : working towards releasing the universal intelligence of LLM, especially on dialogue and searching.
+- 📫 2022-04 - 2023-09: worked on ByteDance AI Lab in the fields of multimodal/multilingual machine translation and multilingual LLM.
 - 📫 2021-07 - 2021-11: conducted research on semi-parametric MT as a NLP Research intern on Alibaba Damo Academy (One conference paper published).
 - 📫 2020-11 - 2021-02: participated in early NLP Migration Project on HUAWEI Ascend, our work was reported as a markable practice [[wiki]](https://gitee.com/ascend/modelzoo/wikis/%E5%85%B8%E5%9E%8B%E9%97%AE%E9%A2%98%E5%AE%9A%E4%BD%8D%E6%80%BB%E7%BB%93/Bi-GRU%E7%B2%BE%E5%BA%A6%E4%B8%8E%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB).
 - 📫 2020-05 - 2020-11: conducted research on translation quality estimation in corporation with OPPO Research (One paper under review).
