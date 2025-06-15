@@ -4,19 +4,22 @@ I am an NLP algorithm engineer graduated from Xiamen University with bachelor de
 
 My research interests include: 
 
-- 🔭 clustering analysis (fuzzy clustering theory and linguistic clustering)
+- 🌱 large language modeling (RL on math/code/tool/multimodal reasoning, universal sft, and multilingual pretrain)
 - 🌱 machine translation (text-only and multimodal machine translation)
 - 👯 multimodal learning (pretraining technology and reasoning)
-- 🌱 large language modeling (infra, multilingual pretrain and efficient universal sft)
+- 🔭 clustering analysis (fuzzy clustering theory and linguistic clustering)
 
 I am passionate about specializing in algorithms and fit them into practical applications.
 
 ## Experiences
 
-- 📫 2023-09 -  now   : working on Foundational LLM Team, Alibaba Inc., towards the universal intelligence of LLM, especially on dialogue and searching.
+- 📫 2023-09 -  now   : working on Foundational LLM Team, Alibaba Inc.
+   - Generally, work towards the universal intelligence of LLM especially for dialogue, reasoning and searching. Pretrain | SFT | RL are all heavily involved.
+   - Interspersed in the middle, responsible for the landing of 2 ToC businesses (Role-Playing and Text-to-Image Generation Services on Quark APP & Desktop)
+   - Now, focus on RL to boost the ability of math/code/tool/multimodal reasoning.
 - 📫 2022-04 - 2023-09: worked on ByteDance AI Lab in the fields of multimodal/multilingual machine translation and multilingual LLM.
 - 📫 2021-07 - 2021-11: conducted research on semi-parametric MT as a NLP Research intern on Alibaba Damo Academy (One conference paper published).
-- 📫 2020-11 - 2021-02: participated in early NLP Migration Project on HUAWEI Ascend, our work was reported as a markable practice [[wiki]](https://gitee.com/ascend/modelzoo/wikis/%E5%85%B8%E5%9E%8B%E9%97%AE%E9%A2%98%E5%AE%9A%E4%BD%8D%E6%80%BB%E7%BB%93/Bi-GRU%E7%B2%BE%E5%BA%A6%E4%B8%8E%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB).
+- 📫 2020-11 - 2021-02: participated in early NLP Migration Project on HUAWEI Ascend, our work was reported as a markable practice [[wiki]](https://gitee.com/ascend/modelzoo/wikis/%E5%8E%86%E5%8F%B2%E6%95%99%E7%A8%8B%E5%BD%92%E6%A1%A3/%E5%85%B8%E5%9E%8B%E9%97%AE%E9%A2%98%E5%AE%9A%E4%BD%8D%E6%80%BB%E7%BB%93/Bi-GRU%E7%B2%BE%E5%BA%A6%E4%B8%8E%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB).
 - 📫 2020-05 - 2020-11: conducted research on translation quality estimation in corporation with OPPO Research (One paper under review).
 - 📫 2020-04 - 2020-09: conducted research on vison & language multimodal machine translation (One conference paper published).
 - 🤔 2019-09 - 2020-05: joined in TJUNLP lab and conducted research on vision & language commensense reasoning, finally stopped for the lack of computational resources. 
