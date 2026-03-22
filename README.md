@@ -15,8 +15,8 @@ I am passionate about specializing in algorithms and fit them into practical app
 
 - 📫 2023-09 -  now   : working on Foundational LLM Team, Alibaba Inc.
    - Generally, work towards the universal intelligence of LLM especially for dialogue, reasoning and searching. Pretrain | SFT | RL are all heavily involved.
-   - Interspersed in the middle, responsible for the landing of 2 ToC businesses (Role-Playing and Text-to-Image Generation Services on Quark APP & Desktop)
-   - Now, focus on RL to boost the ability of math/code/tool/multimodal reasoning.
+   - 2023-09 - 2024.02: Interspersed in the middle, responsible for the landing of 2 ToC businesses (Role-Playing and Text-to-Image Generation Services on Quark APP & Desktop)
+   - 2024.02 - Now: RLVR of math/code/qa/dialog/RAG/instruction -> multimodal understanding & reasoning -> agent system.
 - 📫 2022-04 - 2023-09: worked on ByteDance AI Lab in the fields of multimodal/multilingual machine translation and multilingual LLM.
 - 📫 2021-07 - 2021-11: conducted research on semi-parametric MT as a NLP Research intern on Alibaba Damo Academy (One conference paper published).
 - 📫 2020-11 - 2021-02: participated in early NLP Migration Project on HUAWEI Ascend, our work was reported as a markable practice [[wiki]](https://gitee.com/ascend/modelzoo/wikis/%E5%8E%86%E5%8F%B2%E6%95%99%E7%A8%8B%E5%BD%92%E6%A1%A3/%E5%85%B8%E5%9E%8B%E9%97%AE%E9%A2%98%E5%AE%9A%E4%BD%8D%E6%80%BB%E7%BB%93/Bi-GRU%E7%B2%BE%E5%BA%A6%E4%B8%8E%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB).
